@@ -8,6 +8,7 @@
       "Balcão de Síntese"
     ],
     "pattern": [
+      "AAA",
       "AAA"
     ],
     "key": {
@@ -18,7 +19,7 @@
     },
     "result": {
       "item": "minecraft:coal",
-      "count": 2,
+      "count": 5,
       "data": 0
     }
   }

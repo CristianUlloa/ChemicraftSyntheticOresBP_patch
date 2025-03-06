@@ -6,7 +6,8 @@
     ],
     "output": {
       "item": "minecraft:gold_nugget",
-      "data": 0
+      "data": 0,
+      "count": 3
     },
     "input": {
       "item": "cso:cascalho_enriquecido",
