@@ -1,0 +1,1 @@
+give @s cso:liga_de_cobre_bruto

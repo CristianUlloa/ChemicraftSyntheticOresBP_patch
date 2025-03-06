@@ -1,0 +1,24 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_c989b982"
+    },
+    "tags": [
+      "Prensa Potente"
+    ],
+    "pattern": [
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "cso:grafite_bruto",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "cso:diamante_bruto",
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,1 @@
+give @s cso:calcopirita_bruta_fundida

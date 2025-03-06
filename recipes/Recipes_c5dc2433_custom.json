@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_8c68bc2e"
+    },
+    "tags": [
+      "Prensa Potente"
+    ],
+    "pattern": [
+      " A ",
+      "AAA",
+      " A "
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:red_dye",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "cso:corante_vermelho_concentrado",
+      "count": 1
+    }
+  }
+}

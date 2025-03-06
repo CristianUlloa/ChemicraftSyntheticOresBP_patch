@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_86a2a4e5"
+    },
+    "tags": [
+      "Balcão de Síntese"
+    ],
+    "pattern": [
+      "B"
+    ],
+    "key": {
+      "B": {
+        "item": "cso:po_energetico",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:redstone",
+      "count": 1,
+      "data": 0
+    }
+  }
+}

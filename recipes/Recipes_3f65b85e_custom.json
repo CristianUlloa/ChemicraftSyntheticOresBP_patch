@@ -1,0 +1,46 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_54df1d0b"
+    },
+    "tags": [
+      "Mesa de Trabalho Avançada"
+    ],
+    "pattern": [
+      "ABA",
+      "CDC",
+      "EFE"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:smooth_stone",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:iron_ingot",
+        "data": 0
+      },
+      "C": {
+        "item": "minecraft:oak_planks",
+        "data": 0
+      },
+      "D": {
+        "item": "cso:nucleo_sintetico",
+        "data": 0
+      },
+      "E": {
+        "item": "minecraft:iron_block",
+        "data": 0
+      },
+      "F": {
+        "item": "minecraft:gold_ingot",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "cso:base_de_sintese",
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "tags": [
+      "blast_furnace"
+    ],
+    "output": {
+      "item": "minecraft:copper_ingot",
+      "data": 0
+    },
+    "input": {
+      "item": "cso:liga_de_cobre_bruto",
+      "data": 0
+    },
+    "description": {
+      "identifier": "recipes_b9460ba9"
+    }
+  }
+}

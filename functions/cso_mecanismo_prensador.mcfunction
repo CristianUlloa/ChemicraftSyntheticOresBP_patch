@@ -1,0 +1,1 @@
+give @s cso:mecanismo_prensador

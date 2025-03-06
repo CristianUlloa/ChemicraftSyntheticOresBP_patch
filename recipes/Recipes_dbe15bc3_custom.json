@@ -1,0 +1,42 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_45924174"
+    },
+    "tags": [
+      "Mesa de Trabalho Avançada"
+    ],
+    "pattern": [
+      "AAA",
+      "BCB",
+      "DED"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:smooth_stone",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:iron_ingot",
+        "data": 0
+      },
+      "C": {
+        "item": "minecraft:obsidian",
+        "data": 0
+      },
+      "D": {
+        "item": "minecraft:iron_block",
+        "data": 0
+      },
+      "E": {
+        "item": "minecraft:redstone_block",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "cso:base_de_compressao",
+      "count": 1
+    }
+  }
+}

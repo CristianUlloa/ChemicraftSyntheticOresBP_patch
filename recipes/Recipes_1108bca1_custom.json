@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_179fe17c"
+    },
+    "tags": [
+      "Balcão de Síntese"
+    ],
+    "pattern": [
+      " A ",
+      "BCB"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:blue_dye",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:quartz",
+        "data": 0
+      },
+      "C": {
+        "item": "minecraft:iron_ingot",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "cso:lazurita",
+      "count": 1
+    }
+  }
+}

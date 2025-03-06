@@ -1,0 +1,34 @@
+{
+  "format_version": "1.21.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "cso:fragmento_de_diamante",
+      "menu_category": {
+        "category": "items"
+      }
+    },
+    "components": {
+      "minecraft:hand_equipped": false,
+      "minecraft:max_stack_size": 64,
+      "minecraft:glint": false,
+      "minecraft:use_modifiers": {
+        "movement_modifier": 1,
+        "use_duration": 0
+      },
+      "minecraft:allow_off_hand": false,
+      "minecraft:icon": "cso:fragmento_de_diamante",
+      "minecraft:display_name": {
+        "value": "Fragmento de Diamante"
+      },
+      "tag:minecraft:transform_materials": {},
+      "minecraft:tags": {
+        "tags": [
+          "minecraft:transform_materials"
+        ]
+      },
+      "minecraft:custom_components": [
+        "cso_fragmento_de_diamante:trigger"
+      ]
+    }
+  }
+}

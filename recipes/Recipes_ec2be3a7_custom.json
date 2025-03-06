@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "recipes_2e6041eb"
+    },
+    "tags": [
+      "stonecutter"
+    ],
+    "priority": 1,
+    "ingredients": [
+      {
+        "item": "cso:beriloferrita",
+        "data": 0
+      }
+    ],
+    "result": {
+      "item": "minecraft:emerald",
+      "count": 2,
+      "data": 0
+    }
+  }
+}

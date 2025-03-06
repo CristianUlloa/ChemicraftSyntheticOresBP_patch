@@ -1,0 +1,28 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_fdbe8010"
+    },
+    "tags": [
+      "Balcão de Síntese"
+    ],
+    "pattern": [
+      "ABA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:sandstone",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:sand",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "cso:areia_ferruginosa",
+      "count": 1
+    }
+  }
+}

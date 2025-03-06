@@ -1,0 +1,1 @@
+give @s cso:base_de_compressao

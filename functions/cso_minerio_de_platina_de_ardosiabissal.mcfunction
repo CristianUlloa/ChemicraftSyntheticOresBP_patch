@@ -1,0 +1,1 @@
+give @s cso:minerio_de_platina_de_ardosiabissal

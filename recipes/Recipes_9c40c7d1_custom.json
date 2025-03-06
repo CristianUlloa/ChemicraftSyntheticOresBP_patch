@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_661d3f12"
+    },
+    "tags": [
+      "Prensa Potente"
+    ],
+    "pattern": [
+      "AAA",
+      "ABA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:iron_nugget",
+        "data": 0
+      },
+      "B": {
+        "item": "cso:berilo",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "cso:beriloferrita",
+      "count": 1
+    }
+  }
+}

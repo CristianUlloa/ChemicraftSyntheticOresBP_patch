@@ -1,0 +1,42 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_77376314"
+    },
+    "tags": [
+      "Mesa de Trabalho Avançada"
+    ],
+    "pattern": [
+      "ABA",
+      "CDC",
+      "EEE"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:iron_ingot",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:redstone",
+        "data": 0
+      },
+      "C": {
+        "item": "minecraft:oak_planks",
+        "data": 0
+      },
+      "D": {
+        "item": "minecraft:gold_block",
+        "data": 0
+      },
+      "E": {
+        "item": "minecraft:smooth_stone",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "cso:base_motora",
+      "count": 1
+    }
+  }
+}

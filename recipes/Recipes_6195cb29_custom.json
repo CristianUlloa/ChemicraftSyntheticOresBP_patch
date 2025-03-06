@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_a9930022"
+    },
+    "tags": [
+      "Câmara de Mistura"
+    ],
+    "pattern": [
+      " A ",
+      "BCB"
+    ],
+    "key": {
+      "A": {
+        "item": "cso:corante_roxo_concentrado",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:iron_ingot",
+        "data": 0
+      },
+      "C": {
+        "item": "minecraft:quartz",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "cso:quartzo_enriquecido",
+      "count": 1
+    }
+  }
+}

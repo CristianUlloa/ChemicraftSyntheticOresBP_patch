@@ -1,0 +1,1 @@
+give @s cso:fragmento_de_obsidiana

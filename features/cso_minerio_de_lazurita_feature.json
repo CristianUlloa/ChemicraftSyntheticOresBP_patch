@@ -1,0 +1,30 @@
+{
+  "format_version": "1.17.0",
+  "minecraft:ore_feature": {
+    "description": {
+      "identifier": "cso_minerio_de_lazurita_feature"
+    },
+    "count": 6,
+    "replace_rules": [
+      {
+        "places_block": "cso:minerio_de_lazurita",
+        "may_replace": [
+          "minecraft:stone",
+          "minecraft:netherrack",
+          "minecraft:end_stone",
+          "minecraft:andesite",
+          "minecraft:diorite",
+          "minecraft:tuff",
+          "minecraft:calcite",
+          "minecraft:granite",
+          "minecraft:sandstone",
+          "minecraft:dirt",
+          "minecraft:ice",
+          "minecraft:snow",
+          "minecraft:basalt",
+          "minecraft:deepslate"
+        ]
+      }
+    ]
+  }
+}

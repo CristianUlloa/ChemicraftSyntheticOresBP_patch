@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_d3d17acc"
+    },
+    "tags": [
+      "Prensa Potente"
+    ],
+    "pattern": [
+      " A ",
+      "AAA",
+      " A "
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:purple_dye",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "cso:corante_roxo_concentrado",
+      "count": 1
+    }
+  }
+}

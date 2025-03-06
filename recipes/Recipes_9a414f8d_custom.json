@@ -1,0 +1,19 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "tags": [
+      "blast_furnace"
+    ],
+    "output": {
+      "item": "minecraft:gold_nugget",
+      "data": 0
+    },
+    "input": {
+      "item": "cso:cascalho_enriquecido",
+      "data": 0
+    },
+    "description": {
+      "identifier": "recipes_1733f98d"
+    }
+  }
+}

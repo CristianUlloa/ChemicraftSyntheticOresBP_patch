@@ -1,0 +1,1 @@
+give @s cso:painel_de_sintese

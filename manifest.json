@@ -1,0 +1,52 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Adicione uma nova camada de complexidade ao Minecraft com Chemicraft: Synthetic Ores! Descubra novos métodos de criação, refine minérios sintéticos e utilize máquinas inovadoras para transformar recursos em materiais únicos. Torne-se um verdadeiro alquimista! by VitinnnAlmeidaa",
+    "name": "Chemicraft Synthetic Ores",
+    "uuid": "30d1d7a3-14ce-41f5-bbc8-aa36c47678e4",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      30
+    ]
+  },
+  "modules": [
+    {
+      "description": "Adicione uma nova camada de complexidade ao Minecraft com Chemicraft: Synthetic Ores! Descubra novos métodos de criação, refine minérios sintéticos e utilize máquinas inovadoras para transformar recursos em materiais únicos. Torne-se um verdadeiro alquimista! by VitinnnAlmeidaa",
+      "type": "data",
+      "uuid": "fedffacb-b689-45e9-bea2-7dc1f6ef1dc9",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "b190a555-e004-4a1d-b9d1-755dfda16769",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "version": "1.14.0",
+      "module_name": "@minecraft/server"
+    },
+    {
+      "version": "1.3.0",
+      "module_name": "@minecraft/server-ui"
+    },
+    {
+      "version": "1.2.0",
+      "module_name": "@minecraft/common"
+    }
+  ]
+}

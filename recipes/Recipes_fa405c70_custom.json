@@ -1,0 +1,42 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_d51d57c3"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AAA",
+      "BCB",
+      "DED"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:iron_ingot",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:gold_ingot",
+        "data": 0
+      },
+      "C": {
+        "item": "minecraft:crafting_table",
+        "data": 0
+      },
+      "D": {
+        "item": "minecraft:iron_block",
+        "data": 0
+      },
+      "E": {
+        "item": "minecraft:redstone",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "cso:mesa_de_trabalho_avancada",
+      "count": 1
+    }
+  }
+}

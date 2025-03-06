@@ -1,0 +1,1 @@
+give @s cso:mesa_de_trabalho_avancada

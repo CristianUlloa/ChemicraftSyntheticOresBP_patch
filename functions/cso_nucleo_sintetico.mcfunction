@@ -1,0 +1,1 @@
+give @s cso:nucleo_sintetico

@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_9f22f85a"
+    },
+    "tags": [
+      "Mesa de Trabalho Avançada"
+    ],
+    "pattern": [
+      "AAA",
+      "ABA",
+      "A A"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:iron_ingot",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:iron_block",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "cso:mecanismo_prensador",
+      "count": 1
+    }
+  }
+}

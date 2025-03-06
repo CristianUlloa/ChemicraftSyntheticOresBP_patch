@@ -1,0 +1,42 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_7d9def85"
+    },
+    "tags": [
+      "Mesa de Trabalho Avançada"
+    ],
+    "pattern": [
+      "ABA",
+      "CCC",
+      "DED"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:iron_ingot",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:bowl",
+        "data": 0
+      },
+      "C": {
+        "item": "minecraft:smooth_stone",
+        "data": 0
+      },
+      "D": {
+        "item": "minecraft:gold_ingot",
+        "data": 0
+      },
+      "E": {
+        "item": "minecraft:lapis_lazuli",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "cso:painel_de_sintese",
+      "count": 1
+    }
+  }
+}

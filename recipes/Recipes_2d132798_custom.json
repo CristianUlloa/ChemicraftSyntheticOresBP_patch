@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_213cc62c"
+    },
+    "tags": [
+      "Balcão de Síntese"
+    ],
+    "pattern": [
+      " A ",
+      "BCB"
+    ],
+    "key": {
+      "A": {
+        "item": "cso:corante_verde_concentrado",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:iron_ingot",
+        "data": 0
+      },
+      "C": {
+        "item": "minecraft:sand",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "cso:berilo",
+      "count": 1
+    }
+  }
+}

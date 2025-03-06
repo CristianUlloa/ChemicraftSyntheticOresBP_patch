@@ -1,0 +1,1 @@
+give @s cso:po_de_cobre

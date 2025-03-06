@@ -1,0 +1,31 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_8ea96368"
+    },
+    "tags": [
+      "Prensa Potente"
+    ],
+    "pattern": [
+      "A",
+      "B",
+      "A"
+    ],
+    "key": {
+      "A": {
+        "item": "cso:platina",
+        "data": 0
+      },
+      "B": {
+        "item": "cso:fragmento_de_obsidiana",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:netherite_scrap",
+      "count": 1,
+      "data": 0
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "recipes_e62d318c"
+    },
+    "tags": [
+      "stonecutter"
+    ],
+    "priority": 1,
+    "ingredients": [
+      {
+        "item": "cso:diamante_bruto",
+        "data": 0
+      }
+    ],
+    "result": {
+      "item": "cso:fragmento_de_diamante",
+      "count": 1
+    }
+  }
+}
